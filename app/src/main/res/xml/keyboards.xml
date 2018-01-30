@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Keyboards>
     <Keyboard nameResId="@string/eng_keyboard" iconResId="@drawable/ic_stat_en"
-              layoutResId="@xml/qwerty" id="@string/settings_default_keyboard_id"
-              defaultDictionaryLocale="en" description="QWERTY Latin keyboard"
+              layoutResId="@xml/qwertz_with_symbols" id="@string/settings_default_keyboard_id"
+              defaultDictionaryLocale="sk" description="QWERTZ SK/DE/symbol"
               index="1" defaultEnabled="true"
               physicalKeyboardMappingResId="@xml/physical" />
     <Keyboard nameResId="@string/compact_keyboard_16keys"
